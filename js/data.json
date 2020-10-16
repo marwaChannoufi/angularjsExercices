@@ -1,0 +1,45 @@
+[
+    {
+         "name":"marwa channoufi",
+         "age":"29",
+         "job":"developer web",
+         "imagename":"1",
+         "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste minus necessitatibus harum pariatur aliquid quasi minima voluptas quisquam dolore rerum aut magni eos ab, eaque architecto. Aut vitae expedita sequi."
+
+     },
+     {
+         "name":"amira channoufi",
+         "age":"32",
+         "job":"developer web eng",
+         "imagename":"3",
+         "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste minus necessitatibus harum pariatur aliquid quasi minima voluptas quisquam dolore rerum aut magni eos ab, eaque architecto. Aut vitae expedita sequi."
+
+     },
+     {
+         "name":"med channoufi",
+         "age":"26",
+         "job":"police agent",
+         "imagename":"2",
+         "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste minus necessitatibus harum pariatur aliquid quasi minima voluptas quisquam dolore rerum aut magni eos ab, eaque architecto. Aut vitae expedita sequi."
+     },
+     {
+                
+         "name":"hfsa channoufi",
+         "age":"32",
+         "job":"developer web app",
+         "imagename":"3",
+         "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste minus necessitatibus harum pariatur aliquid quasi minima voluptas quisquam dolore rerum aut magni eos ab, eaque architecto. Aut vitae expedita sequi."
+
+                
+     },
+     {
+                
+         "name":"marwen channoufi",
+         "age":"35",
+         "job":"topoghraphy",
+         "imagename":"2",
+         "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste minus necessitatibus harum pariatur aliquid quasi minima voluptas quisquam dolore rerum aut magni eos ab, eaque architecto. Aut vitae expedita sequi."
+
+                
+     }
+]

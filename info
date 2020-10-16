@@ -1,0 +1,45 @@
+//*** general:
+
+ angular js open source javascript frame work buil by gooogle
+
+//*** why angular js 
+
+dependency enjection: you can designe of alll component 
+2 way databent big been
+test to end to end
+mvc
+
+
+//*** MVC softwere designe patren
+
+//*** single page Aplication
+
+go link to link without loading   /about  /contact
+ 
+ //***Directives
+ [
+     ng-model ...:difinir the var 
+ ]
+directives lethtml static to dynamiq
+[ng-app: ]to start a application with angular 
+[
+    ng-repeat: forEch
+]....
+[
+    ng-init
+]
+
+
+//*** data binding:moyen decomunication to the model and view
+
+2 types data binding:
+    one way
+    tow ways:synchronous 
+
+
+[
+
+]
+//**** filters
+
+//*** modules
